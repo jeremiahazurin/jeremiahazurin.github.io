@@ -9,12 +9,11 @@ p {
 #leftcol {
   width: 50%;
   float: left;
-  padding-left: 5em;
+  padding: 5em 5em 5em 5em;
   position: relative;
 }
 
 #maincol {
-  padding-left: 5em;
-  padding-top: 5em;
+  padding: 5em 5em 5em 5em;
   position: relative;
 }

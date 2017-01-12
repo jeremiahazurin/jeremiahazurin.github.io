@@ -1,7 +1,4 @@
-h1 {
-  font-family: sans-serif;
-}
-
+h1,
 p {
   font-family: sans-serif;
 }
@@ -9,11 +6,17 @@ p {
 #leftcol {
   width: 50%;
   float: left;
-  padding: 5em 5em 5em 5em;
+  padding-top: 0em;
+  padding-right: 5em;
+  padding-bottom: 0em;
+  padding-left: 5em;
   position: relative;
 }
 
 #maincol {
-  padding: 5em 5em 5em 5em;
+  padding-top: 0em;
+  padding-right: 5em;
+  padding-bottom: 0em;
+  padding-left: 5em;
   position: relative;
 }

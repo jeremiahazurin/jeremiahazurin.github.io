@@ -5,3 +5,16 @@ h1 {
 p {
   font-family: sans-serif;
 }
+
+#leftcol {
+  width: 50%;
+  float: left;
+  padding-left: 5em;
+  position: relative;
+}
+
+#maincol {
+  padding-left: 5em;
+  padding-top: 5em;
+  position: relative;
+}

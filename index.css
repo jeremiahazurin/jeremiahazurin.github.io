@@ -9,8 +9,8 @@
     padding-right: 200px;
     line-height: 25px;
     font-size: .8em;
-    clear: initial;
-  }
+    clear: both;
+}
   
   img {
     position: relative;

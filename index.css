@@ -25,7 +25,7 @@ p {
 }
 
 div.profilepic {
-   float: right;
+   float: left;
    display: inline-block;
    padding: 30px;
 }

@@ -23,3 +23,9 @@ p {
   padding-left: 5em;
   position: relative;
 }
+
+div.profilepic {
+   float: right;
+   display: inline-block;
+   padding: 30px;
+}

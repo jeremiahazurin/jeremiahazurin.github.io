@@ -6,7 +6,6 @@
   #maincol,
   #leftcol {
     position: relative;
-    padding-right: 200px;
     line-height: 25px;
     font-size: .8em;
     clear: both;
@@ -16,7 +15,7 @@
     position: relative;
     float: left;
     display: inline-block;
-    padding: 30px 30px 30px 300px;
+    padding: 30px 30px 30px 30px;
   }
   
   #resume {

@@ -24,13 +24,13 @@
   }
   
   a:link,
-  a:active {
+  a:active,
+  a:visited {
     color: orange;
     text-decoration: none;
   }
   
-  a:link,
   a:hover {
     color: green;
-    text-decoration: none;
+    text-decoration: bold;
   }

@@ -1,30 +1,19 @@
-h1 {
-  font-family: sans-serif;
-}
-
+h1,
 p {
   font-family: sans-serif;
 }
 
 #maincol {
-  padding-top: 0em;
-  padding-right: 5em;
-  padding-bottom: 0em;
-  padding-left: 5em;
   position: relative;
 }
 
 #leftcol {
-  float: left;
-  padding-top: 0em;
-  padding-right: 5em;
-  padding-bottom: 0em;
-  padding-left: 5em;
   position: relative;
+  
 }
 
 div.profilepic {
   float: left;
   display: inline-block;
-  padding: 30px;
+  padding: 30px 30px 30px 30px;
 }

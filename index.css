@@ -3,13 +3,10 @@ p {
   font-family: sans-serif;
 }
 
-#maincol {
-  position: relative;
-}
-
+#maincol,
 #leftcol {
   position: relative;
-  
+  padding-right: 100px;
 }
 
 div.profilepic {

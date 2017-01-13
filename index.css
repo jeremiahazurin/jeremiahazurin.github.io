@@ -12,6 +12,7 @@ p {
 }
 
 div.profilepic {
+  position: relative;
   float: left;
   display: inline-block;
   padding: 30px 30px 30px 300px;
